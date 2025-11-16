@@ -1,0 +1,5 @@
+{
+  "name": "SwimBuddz Weekly Attendance",
+  "description": "A one-click weekly attendance web app for SwimBuddz. Members can register for the next session, and new users can add themselves provisionally. Includes a PIN-protected admin dashboard for managing attendance and members.",
+  "requestFramePermissions": []
+}
